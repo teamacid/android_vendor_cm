@@ -15,6 +15,7 @@ add_lunch_combo cm_hallon-userdebug
 add_lunch_combo cm_hercules-userdebug
 add_lunch_combo cm_i777-userdebug
 add_lunch_combo cm_i9100g-userdebug
+add_lunch_combo cm_i9300-userdebug
 add_lunch_combo cm_iyokan-userdebug
 add_lunch_combo cm_mango-userdebug
 add_lunch_combo cm_maguro-userdebug
@@ -48,3 +49,4 @@ add_lunch_combo cm_urushi-userdebug
 add_lunch_combo cm_vibrantmtd-userdebug
 add_lunch_combo cm_wingray-userdebug
 add_lunch_combo cm_zeus-userdebug
+add_lunch_combo cm_zeusc-userdebug
